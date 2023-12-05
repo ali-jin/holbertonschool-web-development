@@ -19,4 +19,5 @@ Firstly there is the header that will have the navigation bar, after we gonna ha
 - Videos section
 - Membership section
 - FAQ section
+
 Then we will have the footer.
