@@ -13,3 +13,10 @@ Its gonna be the base of others projects to build a webpage from scrtach from a 
 - [MDN](https://developer.mozilla.org/en-US/)
 
 ## The Structure
+Firstly there is the header that will have the navigation bar, after we gonna have a main tag that severals section tag :
+- Banner section
+- Quote section
+- Videos section
+- Membership section
+- FAQ section
+Then we will have the footer.
