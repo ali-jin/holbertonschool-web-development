@@ -1,6 +1,6 @@
 # CSS Advanced
 
-![img](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231211%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231211T110455Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5b509591a829a2b92c7b46a060fa32a7152f41387712c3add53aaa4f11557bf4)
+![img](https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png)
 
 ## Description
 In this project following the HTML advanced project, we will make the css of the homepage.
